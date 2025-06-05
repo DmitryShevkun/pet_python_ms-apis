@@ -1,2 +1,1 @@
-# pet_python_ms-apis
-pet project to learn python api/microservices developing with fastapi/uvicorn and db/queue interactions
+# practice_python_ms-apis
